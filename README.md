@@ -1,6 +1,6 @@
 ## Hi there, I'm Ian! 👋
 
-I'm a passionate **Full Stack Developer** with a focus on web development, always striving to create clean and efficient code. I hold a **Bachelor's degree in Systems Engineering** with a specialization in web development and experience working on collaborative projects.
+I'm a passionate **Full Stack Developer** with a focus on web development, always striving to create clean and efficient code.
 
 ### Skills & Technologies:
 - **Languages & Frameworks:** JavaScript, React.js, Node.js, TypeScript, PHP, Python

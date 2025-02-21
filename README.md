@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Ian! 👋
 
-<!--
-**Ian3v/Ian3v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Full Stack Developer** with a focus on web development, always striving to create clean and efficient code. I hold a **Bachelor's degree in Systems Engineering** with a specialization in web development and experience working on collaborative projects.
 
-Here are some ideas to get you started:
+### Skills & Technologies:
+- **Languages & Frameworks:** JavaScript, React.js, Node.js, TypeScript, PHP, Python
+- **Web Development:** HTML, CSS
+- **Databases:** SQL, PostgreSQL, MySQL
+- **Tools & Technologies:** Git, GitHub, Figma, Photoshop, Postman, AWS (basic)
+- **Software Engineering:** UML Diagrams, Software Development Methodologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm currently working on:
+🔭 Full-stack projects with a focus on **React** and **Node.js**, and exploring **AWS** for cloud solutions.
+
+### What I'm learning:
+🌱 Diving deeper into **TypeScript** and exploring **Linux** for better DevOps practices.
+
+### Fun facts:
+⚡ I love solving complex problems and collaborating with great teams to bring ideas to life.
+
+### Let's connect! 💬
+📫 Feel free to reach out to me if you're interested in collaborating or just want to chat about tech.

@@ -9,9 +9,6 @@ I'm a passionate **Full Stack Developer** with a focus on web development, alway
 - **Tools & Technologies:** Git, GitHub, Figma, Photoshop, Postman, AWS (basic)
 - **Software Engineering:** UML Diagrams, Software Development Methodologies
 
-### What I'm currently working on:
-🔭 Full-stack projects with a focus on **React** and **Node.js**, and exploring **AWS** for cloud solutions.
-
 ### What I'm learning:
 🌱 Diving deeper into **TypeScript** and exploring **Linux** for better DevOps practices.
 
